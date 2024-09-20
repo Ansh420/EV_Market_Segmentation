@@ -13,9 +13,13 @@ This codebase provides a framework for analyzing the EV market using various seg
 This repository includes scripts for segmenting the EV market based on several factors:
 
 **Product Type**: Categorize EVs by technology (BEV, PHEV, HEV, etc.)
+
 **Vehicle Specifications**: Segment EVs by factors like range, battery capacity, and performance.
+
 **Price**: Group EVs based on their affordability to target budget-conscious or premium buyers.
+
 **Target Market**: Identify potential customer segments based on demographics, behaviors, and environmental attitudes.
+
 
 **Note: The specific functionalities might require additional data sets depending on your chosen segmentation approach**
 
