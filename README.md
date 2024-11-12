@@ -26,14 +26,14 @@ This repository includes scripts for segmenting the EV market based on several f
 
 ## Install dependencies
 
-This step might be necessary if the code relies on specific Python libraries for data analysis. Refer to any requirements.txt file for details on installation.
+- This step might be necessary if the code relies on specific Python libraries for data analysis. Refer to any requirements.txt file for details on installation.
 
 ## Explore the code
 
-The main functionalities likely reside in Python scripts. Familiarize yourself with the code structure and data sources used.
+- The main functionalities likely reside in Python scripts. Familiarize yourself with the code structure and data sources used.
 ## Customize the analysis
 
-Modify the scripts to incorporate your own data sets or tailor the segmentation approach to your specific needs.
+- Modify the scripts to incorporate your own data sets or tailor the segmentation approach to your specific needs.
 
 ## Contributing
-We welcome contributions to this project! If you have improvements or additional segmentation methods, feel free to submit a pull request.
+- We welcome contributions to this project! If you have improvements or additional segmentation methods, feel free to submit a pull request.
