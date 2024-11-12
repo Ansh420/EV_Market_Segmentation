@@ -4,10 +4,10 @@
 This repository explores the electric vehicle (EV) market through segmentation analysis. 
 By dividing the market into distinct consumer groups, we can gain valuable insights to:
 
-Understand consumer preferences and needs for EVs
-Develop targeted marketing strategies for different EV segments
-Identify potential growth opportunities within the EV market
-This codebase provides a framework for analyzing the EV market using various segmentation approaches.
+- Understand consumer preferences and needs for EVs.
+- Develop targeted marketing strategies for different EV segments.
+- Identify potential growth opportunities within the EV market.
+- This codebase provides a framework for analyzing the EV market using various segmentation approaches.
 
 ## Functionality
 This repository includes scripts for segmenting the EV market based on several factors:
