@@ -18,7 +18,7 @@ This repository includes scripts for segmenting the EV market based on several f
 
 - **Price**: Group EVs based on their affordability to target budget-conscious or premium buyers.
 
-- **Target Market**: Identify potential customer segments based on demographics, behaviors, and environmental attitudes.
+- **Target Market**: Identify potential customer segments based on demographics, behaviors, and environmental attitudes. 
 
 
 **Note: The specific functionalities might require additional data sets depending on your chosen segmentation approach**
