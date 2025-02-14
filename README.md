@@ -14,7 +14,7 @@ This repository includes scripts for segmenting the EV market based on several f
 
 - **Product Type**: Categorize EVs by technology (BEV, PHEV, HEV, etc.)
 
-- **Vehicle Specifications**: Segment EVs by factors like range, battery capacity, and performance.
+- **Vehicle Specifications**: Segment EVs by factors like range, battery capacity, and performance.  
 
 - **Price**: Group EVs based on their affordability to target budget-conscious or premium buyers.
 
