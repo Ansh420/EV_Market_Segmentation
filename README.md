@@ -1,5 +1,5 @@
 # Electric Vehicle Market Segmentation (EVMS)
-
+   
 
 This repository explores the electric vehicle (EV) market through segmentation analysis. 
 By dividing the market into distinct **consumer groups**, we can gain valuable insights to:
