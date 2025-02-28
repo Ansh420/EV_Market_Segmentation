@@ -37,3 +37,4 @@ This repository includes scripts for segmenting the EV market based on several f
 
 ## Contributing
 - We welcome contributions to this project! If you have improvements or additional segmentation methods, feel free to submit a pull request.
+ 
