@@ -12,7 +12,7 @@ By dividing the market into distinct **consumer groups**, we can gain valuable i
 ## Functionality
 This repository includes scripts for segmenting the EV market based on several factors:
 
-- **Product Type**: Categorize EVs by technology (BEV, PHEV, HEV, etc.)
+- **Product Type**: Categorize EVs by technology (BEV, PHEV, HEV, etc.)                            
 
 - **Vehicle Specifications**: Segment EVs by factors like range, battery capacity, and performance.  
 
